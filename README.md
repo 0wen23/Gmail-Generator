@@ -1,2 +1,2 @@
 # Gmail-Generator
-not fully finished.
+not fully finished
